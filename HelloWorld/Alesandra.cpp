@@ -1,7 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-  for(int i=1;i<=10;i++){
+  string input="alesandra";
+  while (input!="end")
     cout<<"Hello World"<<endl;
+    cin>>input;
   }
 }
